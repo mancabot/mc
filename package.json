@@ -16,12 +16,12 @@
   "author": "NURUL",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mancabot/mancap.git"
+    "url": "git+https://github.com/mancabot/mc.git"
   },
   "bugs": {
-    "url": "https://github.com/mancabot/mancap/issues"
+    "url": "https://github.com/mancabot/mc/issues"
   },
-  "homepage": "https://github.com/mancabot/mancap/readme",
+  "homepage": "https://github.com/mancabot/mc/readme",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^3.3.0",
